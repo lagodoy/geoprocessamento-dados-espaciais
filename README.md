@@ -5,5 +5,5 @@
 **Licença:** CC BY 4.0 (Uso permitido mediante citação expressa do autor).
 
 ## Estrutura do Repositório
-- `/r`: Implementação de rotinas de análise espacial, sensoriamento remoto, automação de dados e processamento paralelo.
-- `/python`: Versões equivalentes em notebooks e scripts.
+- `labs/r`: Implementação de rotinas de análise espacial, sensoriamento remoto, automação de dados e processamento paralelo.
+- `labs/python`: Versões equivalentes em notebooks e scripts.
